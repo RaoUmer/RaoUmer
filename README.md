@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Image Restoration such as Super-Resolution, Denoising, Deblurring, and MRI Reconstruction](https://github.com/RaoUmer/SRResCGAN).
 
-- 🌱 I’m currently learning **AI, Machine Learning, and Deep Learning**.
+- 🌱 I’m currently learning for **AI, Machine Learning, and Deep Learning**.
 
-- 👯 I’m looking to collaborate on **Image Restoration problems**.
+- 👯 I’m looking to collaborate on the **Image Restoration problems**.
 
 - 👨‍💻 All of my projects are available at my personal [website](https://raoumer.github.io/).
 
