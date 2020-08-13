@@ -3,21 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoumer" alt="raoumer" /> </p>
 
-- 🔭 I’m currently working on [Image Restoration such as Super-Resolution, Denoising, Deblurring, and MRI Reconstruction](https://github.com/RaoUmer/SRResCGAN)
+- 🔭 I’m currently working on [Image Restoration such as Super-Resolution, Denoising, Deblurring, and MRI Reconstruction](https://github.com/RaoUmer/SRResCGAN).
 
-- 🌱 I’m currently learning **Pytorch, Python**
+- 🌱 I’m currently learning **AI, Machine Learning, and Deep Learning**.
 
-- 👯 I’m looking to collaborate on [Image Super-Resolution problem](https://github.com/RaoUmer/SRResCGAN)
+- 👯 I’m looking to collaborate on **Image Restoration problems**.
 
-- 🤝 I’m looking for help with **Image Restoration problems**
+- 👨‍💻 All of my projects are available at my personal [website](https://raoumer.github.io/).
 
-- 👨‍💻 All of my projects are available at my personal [website](https://raoumer.github.io/)
+- 📝 I write articles on my [Blog](https://raoumer.github.io/blog1.html).
 
-- 📝 I write articles on my [Blog](https://raoumer.github.io/blog1.html)
+- 💬 Ask me about **Desgning and Deployment of the Machine\Deep Learning based projects**.
 
-- 💬 Ask me about **Pytorch, Python, C/C++**
-
-- 📫 How to reach me **https://raoumer.github.io/**
+- 📫 How to reach me: **https://raoumer.github.io/**.
 
 ### Technical Skills:
 
