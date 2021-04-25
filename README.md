@@ -6,7 +6,7 @@
 ------------
 
 🌱 **News**🌱 
-- **Docker image hosted on [replicate.ai](https://beta.replicate.ai/) for the [SRResCGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), [SRResCycGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), and [ISRResCNet](https://beta.replicate.ai/RaoUmer/ISRResCNet)!**
+- **For reproducibility of the models, Docker image hosted on [replicate.ai](https://beta.replicate.ai/) for the [SRResCGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), [SRResCycGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), and [ISRResCNet](https://beta.replicate.ai/RaoUmer/ISRResCNet)!**
 
 ------------
 
