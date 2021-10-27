@@ -8,6 +8,8 @@
 ### ⚡  **News** ⚡
 - **The testing/inference code of [RBSRICNN](https://github.com/RaoUmer/RBSRICNN) will be released soon!**
 
+  <img src="https://github.com/RaoUmer/raoumer.github.io/blob/master/images/rbsricnn.gif" width="408px"/> 
+
 - **For reproducibility, run inferences of the models in the browser and docker image hosted on [replicate.ai](https://beta.replicate.ai/) for the [SRResCGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), [SRResCycGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), and [ISRResCNet](https://beta.replicate.ai/RaoUmer/ISRResCNet)!**
 
 ------------
