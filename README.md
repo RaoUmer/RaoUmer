@@ -6,7 +6,7 @@
 ------------
  
 ### ⚡  **News** ⚡
-- **The testing/inference code of [RBSRICNN](https://github.com/RaoUmer/RBSRICNN) will be released soon!**
+- **The testing/inference code of [RBSRICNN](https://github.com/RaoUmer/RBSRICNN) has been released!**
 
   <img src="https://github.com/RaoUmer/raoumer.github.io/blob/master/images/rbsricnn.gif" width="408px"/> 
 
