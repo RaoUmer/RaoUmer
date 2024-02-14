@@ -1,7 +1,7 @@
 ## Rao Muhammad Umer
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/semanticuireact.svg" />](https://raoumer.github.io/) [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=40fvjRgAAAAJ&hl=en) [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/researchgate.svg" />](https://www.researchgate.net/profile/Rao_Umer) [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://pk.linkedin.com/in/raomumer/)
 
-**I am currently a researcher working on Low-Level Vision, Computational Photography, Computer Vision, Image and Video Processing, Machine Learning and Deep Learning.**
+**My research focuses on computational imaging, specifically in the realms of Mobile Photography (such as image restoration) and Medical Imaging (such as computational pathology). I am interested in training large foundation models in digital pathology.**
 
 ------------
  
