@@ -6,11 +6,15 @@
 ------------
  
 ### ⚡  **News** ⚡
-- **The testing/inference code of [RBSRICNN](https://github.com/RaoUmer/RBSRICNN) has been released!**
+- **The training and inference codes of [CytoDiff](https://github.com/JanCarreras24/CytoDiff) (ICCV Workshops 2025) has been released!**
+
+  <img src="https://github.com/RaoUmer/raoumer.github.io/blob/master/images/cytodiff.png" width="408px"/> 
+
+- **The testing/inference codes of [RBSRICNN](https://github.com/RaoUmer/RBSRICNN) (NeurIPS Workshops 2021) has been released!**
 
   <img src="https://github.com/RaoUmer/raoumer.github.io/blob/master/images/rbsricnn.gif" width="408px"/> 
 
-- **For reproducibility, run inferences of the models in the browser and docker image hosted on [replicate.ai](https://beta.replicate.ai/) for the [SRResCGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), [SRResCycGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), and [ISRResCNet](https://beta.replicate.ai/RaoUmer/ISRResCNet)!**
+- **For reproducibility, run inferences of SR models in the browser and docker image hosted on [replicate.ai](https://beta.replicate.ai/) for the [SRResCGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), [SRResCycGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), and [ISRResCNet](https://beta.replicate.ai/RaoUmer/ISRResCNet)!**
 
 ------------
 ### 🌱 **My Repositories** 🌱
