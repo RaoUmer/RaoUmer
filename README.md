@@ -14,7 +14,7 @@
 
   <img src="https://github.com/RaoUmer/raoumer.github.io/blob/master/images/rbsricnn.gif" width="408px"/> 
 
-- **For reproducibility, run inferences of SR models in the browser and docker image hosted on [replicate.ai](https://beta.replicate.ai/) for the [SRResCGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), [SRResCycGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), and [ISRResCNet](https://beta.replicate.ai/RaoUmer/ISRResCNet)!**
+- **For reproducibility, run inferences of SR models in the browser and docker image hosted on [replicate.ai](https://beta.replicate.ai/) for the [SRResCGAN](https://replicate.com/raoumer/srrescgan), [SRResCycGAN](https://beta.replicate.ai/RaoUmer/SRResCycGAN), and [ISRResCNet](https://beta.replicate.ai/RaoUmer/ISRResCNet)!**
 
 ------------
 ### 🌱 **My Repositories** 🌱
