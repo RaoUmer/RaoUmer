@@ -6,6 +6,10 @@
 ------------
  
 ### ⚡  **News** ⚡
+- **The training and inference codes of [LymphomaMIL](https://github.com/RaoUmer/LymphomaMIL) has been released!**
+
+  <img src="https://github.com/RaoUmer/LymphomaMIL/blob/main/assests/lymphomamil_pipeline.png" width="500px"/> 
+
 - **The training and inference codes of [CytoDiff](https://github.com/JanCarreras24/CytoDiff) (ICCV Workshops 2025) has been released!**
 
   <img src="https://github.com/RaoUmer/raoumer.github.io/blob/master/images/cytodiff.png" width="408px"/> 
