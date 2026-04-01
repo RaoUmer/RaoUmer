@@ -6,7 +6,7 @@
 ------------
  
 ### ⚡  **News** ⚡
-- **The training and inference codes of [LymphomaMIL](https://github.com/RaoUmer/LymphomaMIL) has been released!**
+- **The training and inference codes of [LymphomaMIL](https://github.com/RaoUmer/LymphomaMIL) (CVPR Workshops 2026) has been released!**
 
   <img src="https://github.com/RaoUmer/LymphomaMIL/blob/main/assests/lymphomamil_pipeline.png" width="500px"/> 
 
